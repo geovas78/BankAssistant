@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_91-b14 (Oracle Corporation)
+X-COMMENT: Main-Class will be added automatically by build
+Codebase: http://java2developer-gvasilski.rhcloud.com
+Application-Library-Allowable-Codebase: http://java2developer-gvasilsk
+ i.rhcloud.com
+Caller-Allowable-Codebase: http://java2developer-gvasilski.rhcloud.com
+Permissions: all-permissions
+Application-Name: BankProgramGUIWithDatabase
+
