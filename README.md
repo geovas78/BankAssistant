@@ -1,0 +1,2 @@
+# BankAssistant
+GUI desktop application
